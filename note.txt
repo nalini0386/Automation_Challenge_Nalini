@@ -1,0 +1,7 @@
+Steps to launch application
+1.Download the .jar file on your Destination folder path.
+2.open cmd line.
+3.Type the following command at you destination folder
+example:
+E:\Automation_Challenge1 java -jar Game.jar
+4. Now,Enjoy the game!
